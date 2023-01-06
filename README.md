@@ -22,5 +22,5 @@
 <h3>Formações:</h3>
 <p>As formações, são todas oferidas pela plataforma da Alura e dentro de cada formação, estou colocando os projetos desenvolvidos.</p>
 
-<h3>Projetos</h3>
+<h3>Projetos:</h3>
 <p>Aqui teremos todos os arquivos do projeto, incluindo um readme adequado para cada projeto, que está explicando quais cursos foram utilizados para desenvolver eles, além do objetivo do projeto, o que foi desenvolvido e o que foi aprendido/empregado no projeto.</p>
