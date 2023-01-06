@@ -56,7 +56,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 ## Link
-  - deploy: 
+  - deploy: https://barbeari-alura.vercel.app
 
 
   ## Versão
