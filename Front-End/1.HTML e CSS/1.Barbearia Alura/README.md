@@ -18,7 +18,7 @@ Outra coisa é que nem sempre é necessário criar classes também, pois podemos
 
 ## Tecnologias
 
-Here are the technologies used in this project.
+Aqui estão as tecnologias utilizadas neste projeto.
 
 * HTML5
 * CSS3
