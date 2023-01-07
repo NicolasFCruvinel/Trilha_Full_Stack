@@ -4,7 +4,7 @@
 ## Projeto
 
 O projeto aqui consiste de construirmos uma página de apresetação do pacote Combo+ da Alura.
-Todo o design da página se enctrava pronto no figma já, fizemos a passagem disso para código.
+Todo o design da página se encontrava pronto no figma já, fizemos a passagem disso para código.
 
 ## Objetivo do projeto
 
