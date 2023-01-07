@@ -48,6 +48,10 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ![footer](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/1.HTML%20e%20CSS/3.Alura%20Plus/img/README/Rodapé.png)
 
+## 7 - Mobile 
+
+Para a visualização dessa funcionalidade, convido você à abrir o link a baixo e inspecionar a página :D
+
 ## Link
   - deploy: https://alura-plus-silk-theta.vercel.app
 
