@@ -9,7 +9,7 @@ Além disso entender que ao fazer chamados de elementos do html, o ideal é que 
 Outra coisa é que nem sempre é necessário criar classes também, pois podemos utilizar pseudo-classes para fazer o referenciamento via CSS, uma ferramenta que muito nos auxília por sua facilidade e praticidade.
 
 
-## Cusrsos onde o projeto foi passado
+## Cursos onde o projeto foi passado
 
 * HTML5 e CSS3 1: Crie uma página na Web
 * HTML5 e CSS3 2: Posicionamento, listas e navegação
