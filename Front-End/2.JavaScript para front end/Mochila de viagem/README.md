@@ -24,7 +24,11 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ### 1 - Tela da mochila
 ![teclado](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Mochila%20de%20viagem/img/img_README/Tela%20única.png)
 
-* Convido você a vir testar suas funcionalidades :D
+## Convido você a vir testar suas funcionalidades :D
+
+* Adicionar elemento -> Basta escrever qual o nome e sua quantidade;
+* Alterar elemento -> Escreva o nome do elemento, e sua nova quantidade, ao confirmar o valor será atualizado;
+* Excluir elemento -> Basta clicar no [x] ao lado do elemento que deseja excluir.
 
 ## Link (utilizando o GitHub juntamente com o vercel para a geração do link)
   - deploy: https://mochila-de-viagem-blush.vercel.app
