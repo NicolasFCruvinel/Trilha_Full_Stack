@@ -16,6 +16,8 @@ Mesclar tudo aprendido até então, fazendo desse projeto o primeiro onde foi de
 
 Aqui estão as tecnologias utilizadas neste projeto.
 
+* HTML
+* CSS
 * JavaScript
 
 
