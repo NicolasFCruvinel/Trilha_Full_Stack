@@ -10,7 +10,7 @@ Objetivo do projeto é se aprofundar na pesquisa de elementos do documento HTML 
 
 ## Cursos onde o projeto foi passado
 
-* JavaScript: manipulando o DOM
+* JavaScript na Web: armazenando dados no navegador
 
 ## Tecnologias
 
