@@ -27,7 +27,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * Para Ver sua funcionalidade, acesse o link a seguir.
 
 ## Link (utilizando o GitHub juntamente com o vercel para a geração do link)
-  - deploy: https://alura-midi-delta.vercel.app
+  - deploy: https://robotron2000-chi-six.vercel.app
 
 
   ## Versão
