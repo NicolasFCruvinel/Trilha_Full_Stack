@@ -33,7 +33,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * Para Ver sua funcionalidade, acesse o link a seguir.
 
 ## Link (utilizando o GitHub juntamente com o vercel para a geração do link)
-  - deploy: https://robotron2000-chi-six.vercel.app
+  - deploy: https://alura-books-cadastro-eta.vercel.app
 
 
   ## Versão
