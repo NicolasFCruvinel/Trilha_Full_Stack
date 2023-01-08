@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;600&display=swap');
+
+:root {
+    --font-family: 'Josefin Sans', sans-serif;
+    --cor-secundaria: #FFC93C;
+    --cor-terciaria: #f8d98d;
+    --cor-primaria: #E8F9FD;
+    --cor-fundo: #0081C9;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-primaria);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    font-family: var(--font-family);
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: 600;
+}
+
+h2 {
+    font-size:  4.5em;
+    color: var(--cor-secundaria);
+}
+
+h3 {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.mensagem {
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+span {
+    color: var(--cor-secundaria);
+    font-weight: 300;
+}
+
+.box {
+    border: 2px solid var(--cor-primaria);
+    display: inline-block;
+    font-size: 4em;
+    padding: 10px;
+    margin: 20px;
+}
+
+i {
+    font-size: 15px;
+    color: var(--cor-secundaria);
+}
+
+.btn-jogar {
+    border: 0;
+    border-radius: 6px;
+    padding: 15px 20px;
+    background-color: var(--cor-secundaria);
+    font-family: var(--font-family);
+    font-size: 2em;
+    font-weight: 300;
+    margin-top: 30px;
+}
+
+.btn-jogar:hover {
+    background-color: var(--cor-terciaria);
+}
