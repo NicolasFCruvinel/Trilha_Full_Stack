@@ -11,7 +11,7 @@ Entender como pessoas com visão parcial ou totalmente comprometidas acessam as 
  
  
  2. Perceber que coisas muito simples ao estruturar nossas págians HTML pode facilitar muito a leitura desses softwares, por exemplo:
-    * Utilizar as tags de maneira semântica, como usar apeans um "<h1>" por página, colocar os titulos hierarquicamente.
+    * Utilizar as tags de maneira semântica, como usar apeans um  h1 por página, colocar os titulos hierarquicamente.
     * Textos alternativos adequados.
     * Definir bem a linguagem que cada parte do texto deve ser lida.
    
@@ -20,7 +20,16 @@ Entender como pessoas com visão parcial ou totalmente comprometidas acessam as 
     * Alt, é importante que suas imagens tenham um texto alternativo, mas será que todas precisam? É interessante que as imagens que não são de carater informativo não necessariamente tenham um texto alternativo. Além de que caso for necessário, os textos alternativos passem o verdadeiro valor da imagem de uma forma clara e rápida, nada de exagerar no alt.
         * Temos diferentes formas de colocar textos alternaticos também, como o title.
         
- 4. 
+ 4. Os formulários são partes que merecem muita atenção também, um label pode ajudar muito os ouvintes, já que sem eles o campo a ser preenchido não apresenta nenhuma dica do que é preciso colocar lá, fora isso, dentro de formulários ainda existem campos que você deseja impossibilitar a mudança, dessa forma se recoemnda que utilize o "readonly", assim você não retira o direito de leitura desse campo dos sftwares de leitura de tela.
+
+
+5. CSS não é só estilo, os elementos css também aparecem para o leitor de tela, um exemplo é o "list-style" onde quando é colcocado algum estilo aqui, você percebera que o leitor de tela passara isso para o ouvinte, de forma que pode gerar confusão. Então importante levar isso em conta ao cosntruir e estilizar sua página.
+   * Com oq é falado acima, podemos entrar em um ponto muito importante, que é algo muito natural quando se quer sumir com algo, utilizamos o "display:none" com muita frquência, mas já foi dito que CSS não é só estilo né, então adivinhe, tudo que fica com "diplay:none" também some para o leitor de tela, então pense, "esse elemento realmetne não precisa ser lido pelo leitor de tela?", um caso para te fazer pensar é da reação com um botão checkbox utilizando CSS, algo que é frequentemente utilizado, só que se der um display none nessa checkbox, o leitor vai passar direto por ela. O qu eé recomendado nestes casos? Mude o posicionamento do elemento e jogue ele para fora da tela :p Isso vai deixar ele legível, mas não visível :D
+
+6. Pulando a navegação, você consegue facilmente saber do que se trata uma página acessada quase imediatamente após entrar nela, o que não é o mesmo caso para quem depende dos leitores de tela, dessa forma foi pensado em uma forma de se contornar isso, e com isso, vieram formas de pular a nevegação, que normalmente são cheias de titulos e links, dessa forma o ouvinte consegue avançar diretamente para a parte principal da página, assim podendo ter certeza do seu conteúdo o quanto antes.
+
+
+Além disso tudo, aprender a utilizar o software NVDA e vários de suas funcionalidades e atalhos. Também fpo feita a utilização de WAI-ARIA.
 
 ## Cursos onde o projeto foi passado
 
@@ -32,6 +41,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 * HTML
 * CSS
+* Software: NVDA
 
 
 ### Para Ver sua funcionalidade, acesse o link a seguir.
