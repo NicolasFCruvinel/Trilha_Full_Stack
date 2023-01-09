@@ -6,7 +6,7 @@ A equipe de dados anda tendo problemas com as informações de endereço, que é
 
 ## Objetivo do projeto
 
-Aprender a utilizar APIs, sendo aqui o ViaCEP, passando por alguns aprendizados dentro de JavaScript, como funções síncronas e assíncronas, onde vimos métodos finally, catch e then como opção para tratar promises (esse método em particular é interessante por conseguir tratar de mais deuma promise em paralelo), mas deve-se tomar as devidas precauções para não se tornar um callback hell, onde se tem tantos then fazendo requisições que fica algo muito pesado, além de ser dfícil leitura e manutenção no código, com isso tem-se outro método para funções assíncronas, o async await, que cuida de uma promise por vez, mas é bem mais legível. Aprender também a receber, buscar e tratar os dados, tanto pegos do documetno HTML como os fornecidos pelo API,
+Aprender a utilizar APIs, sendo aqui o ViaCEP, passando por alguns aprendizados dentro de JavaScript, como funções síncronas e assíncronas, onde vimos métodos finally, catch e then como opção para tratar promises (esse método em particular é interessante por conseguir tratar de mais deuma promise em paralelo), mas deve-se tomar as devidas precauções para não se tornar um callback hell, onde se tem tantos then fazendo requisições que fica algo muito pesado, além de ser dfícil leitura e manutenção no código, com isso tem-se outro método para funções assíncronas, o async await, que cuida de uma promise por vez, mas é bem mais legível. Aprender também a receber, buscar e tratar os dados, tanto pegos do documetno HTML como os fornecidos pelo API.
 
 ## Cursos onde o projeto foi passado
 
