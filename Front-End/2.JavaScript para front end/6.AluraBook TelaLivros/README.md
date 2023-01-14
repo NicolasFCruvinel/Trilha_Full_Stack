@@ -1,4 +1,4 @@
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/Logo-2.svg" width="300px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/Logo-2.svg" width="300px"/>
 
 ## Projeto: AluraBook|Tela de Livros (Produtos)
 
@@ -22,13 +22,13 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ## Partes do projeto (link para visualização da página segue após as imagens)
 
 ### 1 - A tela de livros
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/img_README/tela_1.png" width="1000px"/>
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/img_README/tela_2.png" width="1000px"/>
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/img_README/tela_3.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/img_README/tela_1.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/img_README/tela_2.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/img_README/tela_3.png" width="1000px"/>
 
 ### 2 - Botões 
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/img_README/botões.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/img_README/botões.png" width="1000px"/>
 
 ### Funcionalidades:
 
@@ -40,7 +40,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ### 3 - Valor total dos livros diponíveis
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook%20TelaLivros/imagens/img_README/valortotal.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/6.AluraBook%20TelaLivros/imagens/img_README/valortotal.png" width="1000px"/>
 
 ### Funciona como?
 
