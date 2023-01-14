@@ -22,7 +22,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ## Partes do projeto (link para visualização da página segue após as imagens)
 
 ### 1 - Tela da mochila
-![teclado](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Mochila%20de%20viagem/img/img_README/Tela%20única.png)
+![teclado](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/3.Mochila%20de%20viagem/img/img_README/Tela%20única.png)
 
 ## Convido você a vir testar suas funcionalidades :D
 
