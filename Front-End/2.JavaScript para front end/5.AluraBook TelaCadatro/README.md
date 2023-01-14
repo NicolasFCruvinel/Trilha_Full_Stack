@@ -1,4 +1,4 @@
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook/img/Logo.svg" width="70px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/5.AluraBook%20TelaCadatro/img/Logo.svg" width="70px"/>
 
 ## Projeto: AluraBook|Tela de cadastro
 
@@ -22,13 +22,13 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ## Partes do projeto (link para visualização da página segue após as imagens)
 
 ### 1 - A tela de cadastro
-![Tela](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook/img/img_README/Tela%20de%20cadastro.png)
+![Tela](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/5.AluraBook%20TelaCadatro/img/img_README/Tela%20de%20cadastro.png)
 
 ### Após colocar o CEP no seu devido campo e retirar o foco da box desse campo (clicar fora dela), os campos de endereço (Rua), Bairro, Cidade e Estado serão preenchidos automaticamente.
 
 ### 2 - campos preenchidos
 
-![camposPreenchidos](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraBook/img/img_README/campo%20preenchido.png)
+![camposPreenchidos](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/5.AluraBook%20TelaCadatro/img/img_README/campo%20preenchido.png)
 
 * Para Ver sua funcionalidade, acesse o link a seguir.
 
