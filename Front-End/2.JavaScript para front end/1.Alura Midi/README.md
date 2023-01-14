@@ -1,4 +1,4 @@
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Alura%20Midi/images/bateria.png" width="60px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/1.Alura%20Midi/images/bateria.png" width="60px"/>
 
 ## Projeto: Alura Midi
 
