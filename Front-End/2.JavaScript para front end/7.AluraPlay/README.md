@@ -1,4 +1,4 @@
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/favicon.ico" width="80px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/favicon.ico" width="80px"/>
 
 ## Projeto: AluraPlay
 
@@ -25,33 +25,33 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ### 1 - Tela de vídeos
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/tela-videos.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/tela-videos.png" width="1000px"/>
 
 ### 1.1 - Telea de vídeos [pesqusia="mobile"]
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/pesquisando.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/pesquisando.png" width="1000px"/>
 
 ### 2 - Tela para adicionar novos vídeos
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/Adicionando-video.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/Adicionando-video.png" width="1000px"/>
 
 ### 3 - Tela de sucesso ao adicionar novo vídeos (vídeo já aparece na "Tela de vídeos" agora)
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/sucess-add-video.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/sucess-add-video.png" width="1000px"/>
 
 ### 4 - Erros 
 
 ### 4.1 - Erro ao carregar os vídeos
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/erro-carregar-videos.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/erro-carregar-videos.png" width="1000px"/>
 
 ### 4.2 - Erro ao pesquisar um vídeo que não está no servidor [pesqusia="ruby"]
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/erro-video-n-encontrado.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/erro-video-n-encontrado.png" width="1000px"/>
 
 ### 4.3 - Erro ao tentar adicionar novo vídeo
 
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/AluraPlay/img/img_README/erro-add-video.png" width="1000px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/7.AluraPlay/img/img_README/erro-add-video.png" width="1000px"/>
 
 
 
