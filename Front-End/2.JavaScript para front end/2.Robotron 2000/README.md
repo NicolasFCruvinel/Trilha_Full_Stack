@@ -1,4 +1,4 @@
-<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Robotron%202000/img/robotron.png" width="70px"/>
+<img src="https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/2.Robotron%202000/img/robotron.png" width="70px"/>
 
 ## Projeto: Robotron 2000
 
@@ -22,7 +22,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ## Partes do projeto (link para visualização da página segue após as imagens)
 
 ### 1 - Tela do teclado
-![teclado](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Robotron%202000/img/img_README/tela_unica.png)
+![teclado](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/2.Robotron%202000/img/img_README/tela_unica.png)
 
 * Para Ver sua funcionalidade, acesse o link a seguir.
 
