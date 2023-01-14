@@ -25,17 +25,17 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ### 1 - Tela inical
 
-![inicio](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/tela_inicial.png)
+![inicio](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/tela_inicial.png)
 
 ### 2 - Valores inválidos
 
 ### 2.1 - Valor não numérico
 
-![inválido](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/diga_um_numero.png)
+![inválido](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/diga_um_numero.png)
 
 ### 2.2 - Valor fora do intervalor 
 
-![inválido](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/numero_fora_do_intervalo.png)
+![inválido](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/numero_fora_do_intervalo.png)
 
 ### Vale para valores que estão abaixo do intevalo também.
 
@@ -43,19 +43,19 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ### 3.1 - O número secreto é maior 
 
-![Errou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/Numero_menor.png)
+![Errou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/Numero_menor.png)
 
 ### 3.2 - O número secreto é menor
 
-![Errou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/numero_maior.png)
+![Errou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/numero_maior.png)
 
 ### 4 - Você acertou 
 
-![Acertou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/Você_acertou.png)
+![Acertou](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/Você_acertou.png)
 
 ### 5 - Game over
 
-![GameOver](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/Numero%20secreto/assets/img/img_README/Game_Over.png)
+![GameOver](https://github.com/NicolasFCruvinel/Trilha_Full_Stack/blob/main/Front-End/2.JavaScript%20para%20front%20end/4.Numero%20secreto/assets/img/img_README/Game_Over.png)
 
 
 ## Venha jogar um pouco, espero que ache divertido
